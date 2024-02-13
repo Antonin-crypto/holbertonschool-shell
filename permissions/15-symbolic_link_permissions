@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod - vincent:staff hello.txt 
+sudo chown -h vincent:staff _hello 
