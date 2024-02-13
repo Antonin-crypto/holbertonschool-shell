@@ -1,2 +1,2 @@
 #!/bin/bash
-man chmod 644  hello  
+chmod 444  hello  
