@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -L vincent:staff hello 
+chmod - vincent:staff hello.txt 
