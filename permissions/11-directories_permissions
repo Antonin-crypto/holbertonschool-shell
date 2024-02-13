@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R hello /home/name/directoryname 
+chmod -R g+rw
