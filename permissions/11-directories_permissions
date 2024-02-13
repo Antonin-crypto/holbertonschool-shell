@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R g+rw
+chmod u=rwx,g=rwx,o+rx /glade/u/home/username/directory/subdirectory/hello
