@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(( $BREATH 2^1© $LOE ))
+echo $((BREATH 2^1 LOVE ))
