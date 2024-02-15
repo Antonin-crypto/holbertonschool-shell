@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $greeting=best  
+echo $greeting BEST=School  
